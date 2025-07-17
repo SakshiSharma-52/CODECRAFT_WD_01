@@ -12,13 +12,15 @@ Built using HTML, CSS, and JavaScript, this project showcases how to create a mo
 ✅ Animated underline and color change on hover
 ✅ Responsive design for all screen sizes
 ✅ Clean, modern UI design inspired by portfolio and startup websites
+
+
 💻 Demo
-👉 [View Live Demo] :
+👉 [View Live Demo] : https://sakshisharma-52.github.io/CODECRAFT_WD_01/
 
 ⚙️ Technologies Used
-HTML5 — Structure of the page
-CSS3 — Styling and hover animations
-JavaScript — Interactivity and scroll behavior
+   HTML5 — Structure of the page
+   CSS3 — Styling and hover animations
+   JavaScript — Interactivity and scroll behavior
 📁 Project Structure
 interactive-navbar/ ├── index.html ├── style.css └── script.js
 
